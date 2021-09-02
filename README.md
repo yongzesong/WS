@@ -20,3 +20,7 @@ plot(wlr1)
 
 
 &nbsp; 
+
+To cite "WS" R package in publications, please use:
+
+Song, Y., Shen, Z., Wu, P., and  R. A. V. Rossel. Wavelet geographically weighted regression for spectroscopic modelling of soil properties. Sci Rep 11, 17503 (2021). https://doi.org/10.1038/s41598-021-96772-z
